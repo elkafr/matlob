@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "203927064116",
+    "project_id": "matlob-658f2",
+    "storage_bucket": "matlob-658f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203927064116:android:57ea7261621d467f98c461",
+        "android_client_info": {
+          "package_name": "com.omar.matlob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203927064116-q0rlkt6iket2psdq1q0u2uehps13066n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD-85bzD8R3sHVJJujwgI5x1eFYZPqS90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203927064116-q0rlkt6iket2psdq1q0u2uehps13066n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203927064116-9t4pcvq7m1uub3t5ieauo0dsmgj5piq3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omar.matlob"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
